@@ -1,1 +1,2 @@
-# calendar-2025
+# calendar
+A Llama 3 based calendar app
